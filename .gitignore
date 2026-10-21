@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos crudos (se descargan de Kaggle, ver README)
+data/raw/
