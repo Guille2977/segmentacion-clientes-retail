@@ -221,3 +221,6 @@ __marimo__/
 
 # Datos crudos (se descargan de Kaggle, ver README)
 data/raw/
+
+# Base de datos local (se genera con el notebook 02)
+*.db
